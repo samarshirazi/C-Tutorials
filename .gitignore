@@ -1,3 +1,5 @@
-
-lecture-1/second\.c
+*
+!*.c
+!introduction/*.c
+!conditions/*.c
 
